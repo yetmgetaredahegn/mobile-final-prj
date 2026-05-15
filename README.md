@@ -1,8 +1,8 @@
 # dube
 
-[![License](https://img.shields.io/github/license/yetmgetaredahegn/dube)](LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/yetmgetaredahegn/dube)](https://github.com/yetmgetaredahegn/dube/issues)
-[![GitHub stars](https://img.shields.io/github/stars/yetmgetaredahegn/dube)](https://github.com/yetmgetaredahegn/dube/stargazers)
+[![License](https://img.shields.io/github/license/yetmgetaredahegn/mobile-finlal-prj)](LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/yetmgetaredahegn/mobile-finlal-prj)](https://github.com/yetmgetaredahegn/mobile-finlal-prj/issues)
+[![GitHub stars](https://img.shields.io/github/stars/yetmgetaredahegn/mobile-finlal-prj)](https://github.com/yetmgetaredahegn/mobile-finlal-prj/stargazers)
 
 ## Overview
 
@@ -57,7 +57,7 @@ Add screenshots here:
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yetmgetaredahegn/dube.git
+   git clone https://github.com/yetmgetaredahegn/mobile-finlal-prj.git
    cd dube
    ```
 
